@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>754 · 四位数乘法练习</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="header no-print">
+        <div class="header-lead">
+          <h1 class="title">754</h1>
+          <p class="subtitle">7 分钟 · 5 道题 · 四位数 × 四位数</p>
+        </div>
+        <div class="actions">
+          <button type="button" id="btn-generate" class="btn">生成题目</button>
+          <button type="button" id="btn-print" class="btn btn-secondary">打印</button>
+        </div>
+      </header>
+
+      <header class="header-print print-only" aria-hidden="true">
+        <p class="header-print-line">
+          <strong>754</strong>
+          <span class="header-print-sep">·</span>
+          <span>7 分钟 · 5 道题 · 四位数 × 四位数</span>
+        </p>
+      </header>
+
+      <main class="main">
+        <div class="grid" id="grid">
+          <!-- filled by app.js -->
+        </div>
+      </main>
+
+      <footer class="footer">
+        <div class="answers" id="answers" aria-label="参考答案"></div>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
