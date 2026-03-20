@@ -158,8 +158,7 @@ body {
   display: inline-block;
   text-align: right;
   line-height: 1.28;
-  /* 较原先再小 10% */
-  font-size: clamp(1.62rem, 4.86vw, 2.4975rem);
+  font-size: clamp(1.296rem, 3.888vw, 1.998rem);
 }
 
 .vertical .row {
@@ -308,7 +307,7 @@ body {
   }
 
   .vertical {
-    font-size: 21.6pt;
+    font-size: 17.28pt;
     line-height: 1.22;
   }
 
