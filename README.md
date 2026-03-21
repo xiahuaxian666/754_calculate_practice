@@ -1,4 +1,4 @@
-# 754 — 竖式乘法计时练习 | Timed Multiplication Drill
+# 754 — 竖式乘法计时练习页生成器 | Vertical multiplication timing practice page generator
 
 > **7** 分钟 · **5** 道题 · **4** 位数 × **4** 位数
 > **7** minutes · **5** problems · **4**-digit × **4**-digit multiplication
