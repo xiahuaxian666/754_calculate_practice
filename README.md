@@ -1,4 +1,4 @@
-# 754 — 竖式乘法计时练习页生成器 | Vertical multiplication timing practice page generator
+# 754 — 竖式乘法练习随机生成器 | Vertical multiplication timing practice page generator
 
 > **7** 分钟 · **5** 道题 · **4** 位数 × **4** 位数
 > **7** minutes · **5** problems · **4**-digit × **4**-digit multiplication
@@ -7,7 +7,7 @@
 
 ## 简介 | Overview
 
-**754** 是一款专为小学高年级学生设计的网页端数学练习工具，旨在通过严格的计时训练强化竖式乘法的心算与笔算能力。每次练习固定为 7 分钟，包含 5 道四位数乘以四位数的竖式乘法题目，帮助学生在压力环境下建立运算速度与准确性。
+**754** 是一款专为小学中高年级学生家长设计的网页端数学联系页生成工具，旨在通过严格的计时训练强化竖式乘法的心算与笔算能力。每次练习固定为 7 分钟，包含 5 道四位数乘以四位数的竖式乘法题目，帮助学生在压力环境下建立运算速度与准确性。
 
 **754** is a browser-based math drill tool designed for upper-primary students. Each session presents 5 randomly generated four-digit × four-digit multiplication problems within a strict 7-minute countdown, building both speed and accuracy under timed conditions.
 
